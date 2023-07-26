@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosdtrejo
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Typescript + GraphQL
 
 <!---
