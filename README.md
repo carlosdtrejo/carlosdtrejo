@@ -11,7 +11,7 @@ I'm a dedicated software engineer with a Bachelor's degree in Computer Science a
 - 🌱 Continuously learning and expanding my expertise in machine learning, focusing on the intersection of computer graphics and AI.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,python,ts,aws,kubernetes,terraform,sql,django,docker,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,python,ts,aws,kubernetes,terraform,mysql,django,docker,grafana)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
