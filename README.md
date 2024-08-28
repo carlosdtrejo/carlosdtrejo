@@ -30,7 +30,6 @@ I'm a dedicated software engineer with a Bachelor's degree in Computer Science a
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/carlostrejomtz)
 
 Thanks for stopping by! Let's connect and push the boundaries of what's possible in tech together. 🚀
