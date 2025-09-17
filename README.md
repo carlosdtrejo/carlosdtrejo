@@ -2,8 +2,6 @@
 
 I'm a dedicated software engineer with a Bachelor's degree in Computer Science and Economics from the University of Texas at Austin. My professional journey has taken me through exciting roles at IBM, Udemy, and Enthought, where I've honed my skills in full-stack development and developed a deep passion for machine learning, particularly in computer graphics and computer vision.
 
-![carlosdtrejo's Stats](https://github-readme-stats.vercel.app/api?username=carlosdtrejo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently exploring new frontiers in full-stack development, with a keen interest in computer vision and image processing.
